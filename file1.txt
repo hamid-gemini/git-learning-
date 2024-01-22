@@ -1,4 +1,9 @@
 this is 1st file
 this is 1st line 
 this is 2nd line
+<<<<<<< HEAD
 this is third line 
+=======
+this is 3rd line
+this is branch 1
+>>>>>>> 8d1edda8afc1eca5a3029b8e58781257b4233fa0
